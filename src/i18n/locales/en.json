@@ -2,7 +2,8 @@
   "actions": {
     "submit": "Submit",
     "toggle_theme": "Appearance",
-    "sending": "Sending ..."
+    "sending": "Sending ...",
+    "close_panel": "Close Panel"
   },
   "attributes": {
     "links": {
@@ -11,12 +12,23 @@
       "about": "About"
     },
     "titles": {
-      "headline": "Hello World!"
+      "headline": "Hello World!",
+      "headline_restaurant_search": "Restaurant Search!"
     },
     "pages": {
       "about_us": "At <0>tablecheck</0> we love connecting diners with restaurants. The purpose of this app is to...",
       "about_us_salute": "Hey there!",
-      "report_issue": "If you see any wrong content or something that could be improved in the app, please report it using the form below. Thank you very much!"
+      "report_issue": "If you see any wrong content or something that could be improved in the app, please report it using the form below. Thank you very much!",
+      "search_caption": "Type restaurant name or location:",
+      "search_button_caption": "Search",
+      "no_results": "No results for searched term. Try different name or location",
+      "empty_input": "Please type restaurant's name or location",
+      "currency": "Currency",
+      "service_type": "Service Type:",
+      "tags": "Tags:",
+      "cuisine": "Cuisine:",
+      "budget_dinner_min": "Minimum cost of budget dinner :",
+      "smartpay": "Smartpay available"
     }
   },
   "keywords": {
